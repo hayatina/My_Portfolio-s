@@ -1,0 +1,32 @@
+# Hayat Musa - Portfolio Website
+## 📝 Description
+A responsive personal portfolio website showcasing my skills, projects, and experience as a frontend developer and UI/UX designer. Built with HTML, CSS, and Materialize CSS framework.
+
+## ✨ Features
+- Clean, modern design with responsive layout
+- Animated typing effect in hero section
+- Smooth scrolling navigation
+- Project showcase with details and links
+- Skills section with visual icons
+- Contact information with interactive buttons
+
+## 🛠 Technologies Used
+- **Frontend**: HTML5, CSS3, Materialize CSS
+- **JavaScript Libraries**: Typed.js (for typing animation)
+- **Hosting**: GitHub Pages
+
+## 🚀 Projects Showcased
+1. **E-commerce Website** (PHP, MySQL)
+2. **Weather Dashboard** (React, TailwindCSS)
+3. **Quiz Website** (React)
+4. **Journal Website** (React)
+5. **To-Do List App** (Figma Design)
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+📬 Contact
+Email: hayatmusa@gmail.com
+
+LinkedIn: linkedin.com/in/hayatmusa
+
+GitHub: github.com/hayatina
